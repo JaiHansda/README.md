@@ -1,17 +1,15 @@
-# README.md
+# Hi there, I'm Ram LaL! 👋
 
-# Hi there, I'm [Your Name]! 👋
+I'm a passionate Music Bot Coads with a keen interest in Python. I love to explore and contribute to open-source projects.
 
-I'm a passionate [Your Profession/Field] with a keen interest in [Your Interests]. I love to explore and contribute to open-source projects.
-
-🔭 I’m currently working on [Current Project]
-🌱 I’m currently learning [Technologies/Frameworks]
-💬 Ask me about [Your Skills/Interests]
-📫 How to reach me: [Your Email] or [Your Website]
+🔭 I’m currently working on Rias Music Bot. 
+🌱 I’m currently learning Telethon. 
+💬 Ask me about Nothing... I am Nuub
+📫 How to reach me: TimeNahiImmo420@gmail.com or Telegram @Immortal_Animes
 
 ## 🚀 Skills and Technologies
 
-- Programming Languages: [List of Languages]
+- Programming Languages: Python
 - Web Technologies: [List of Technologies]
 - Frameworks: [List of Frameworks]
 - Databases: [List of Databases]
