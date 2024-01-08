@@ -9,14 +9,14 @@ I'm a passionate Music Bot Coads with a keen interest in Python. I love to explo
 
 ## 🚀 Skills and Technologies
 
-- Programming Languages: Python
-- Web Technologies: [List of Technologies]
-- Frameworks: [List of Frameworks]
-- Databases: [List of Databases]
-- Tools: [List of Tools]
+- Programming Languages: Python, Html, Css
+- Web Technologies: React.js, MySQL, MongoDB
+- Frameworks: Frontend Frameworks
+- Databases: MongoDB
+- Tools: Idk
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=JaiHansda&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/JaiHansda?style=social)](https://github.com/JaiHansda)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
 
 ## 📊 GitHub Stats
